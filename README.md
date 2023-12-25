@@ -16,5 +16,5 @@ Clear the canvas with a simple touch gesture, making it easy to start a new draw
 Allows changing among 4 different colors: **RED, GREEN, BLUE, YELLOW**.
 
 ## Image of Air Canvas
-![Air Canvas](images/air_canvas.jpg)
+![Air Canvas](images/air_canvas.png)
 
